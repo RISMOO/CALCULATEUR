@@ -1,0 +1,50 @@
+.result
+
+{font-size:4em;
+color: brown;
+}
+
+body
+
+{
+
+background-image: url(asset/donds3.jpg);
+    
+
+ background-repeat:no-repeat ;
+
+background-size: auto;
+}
+
+
+
+
+.conteneur
+
+{
+    margin-top:5%;
+ width: 400px;
+  margin: auto;
+  display: flex;
+
+
+}
+
+.jumbotron
+
+{
+     box-shadow:0px 0px 5px #3a4655;
+   margin-top: 30%; 
+   background-color: rgba(255, 255, 255, 0.315);
+   
+  
+   
+}
+
+.card
+
+{
+   
+    background: #3a4655;
+    box-shadow:0px 0px 1px #3a4655;
+}
